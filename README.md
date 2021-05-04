@@ -2,6 +2,8 @@
 - 👀 I’m interested in Web Dev and Automate stuff
 - 🌱 I’m currently learning Vue.js, React, Node.js, .NET
 
+ Check my personal web https://urbanjakubdev.netlify.app/
+
 
 <!---
 UrbanJakubDev/UrbanJakubDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
