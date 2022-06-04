@@ -4,7 +4,7 @@ Hi 👋 My name is Jakub Urban
 Full-Stack Web Developer
 ------------------------
 
-I've been coding over 4 years in Python as
+I've been coding over 4 years in Python
 
 * 🌍  I'm based in Brno
 * 🖥️  See my portfolio at [Personal Page](http://urbanjakubdev.netlify.app/)
